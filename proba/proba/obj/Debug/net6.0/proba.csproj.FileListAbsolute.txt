@@ -1,0 +1,4 @@
+C:\iliyan\proggraming\project\proba\proba\obj\Debug\net6.0\proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\project\proba\proba\obj\Debug\net6.0\proba.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\project\proba\proba\obj\Debug\net6.0\proba.AssemblyInfo.cs
+C:\iliyan\proggraming\project\proba\proba\obj\Debug\net6.0\proba.csproj.CoreCompileInputs.cache

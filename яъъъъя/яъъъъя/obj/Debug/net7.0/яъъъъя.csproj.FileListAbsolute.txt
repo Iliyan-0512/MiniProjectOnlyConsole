@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\bin\Debug\net7.0\яъъъъя.exe
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\bin\Debug\net7.0\яъъъъя.deps.json
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\bin\Debug\net7.0\яъъъъя.runtimeconfig.json
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\bin\Debug\net7.0\яъъъъя.dll
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\bin\Debug\net7.0\яъъъъя.pdb
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\obj\Debug\net7.0\яъъъъя.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\obj\Debug\net7.0\яъъъъя.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\obj\Debug\net7.0\яъъъъя.AssemblyInfo.cs
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\obj\Debug\net7.0\яъъъъя.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\obj\Debug\net7.0\яъъъъя.dll
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\obj\Debug\net7.0\refint\яъъъъя.dll
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\obj\Debug\net7.0\яъъъъя.pdb
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\obj\Debug\net7.0\яъъъъя.genruntimeconfig.cache
+C:\iliyan\proggraming\project\яъъъъя\яъъъъя\obj\Debug\net7.0\ref\яъъъъя.dll

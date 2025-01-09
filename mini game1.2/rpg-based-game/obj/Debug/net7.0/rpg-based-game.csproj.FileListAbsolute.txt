@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\bin\Debug\net7.0\rpg-based-game.exe
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\bin\Debug\net7.0\rpg-based-game.deps.json
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\bin\Debug\net7.0\rpg-based-game.runtimeconfig.json
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\bin\Debug\net7.0\rpg-based-game.dll
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\bin\Debug\net7.0\rpg-based-game.pdb
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\obj\Debug\net7.0\rpg-based-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\obj\Debug\net7.0\rpg-based-game.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\obj\Debug\net7.0\rpg-based-game.AssemblyInfo.cs
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\obj\Debug\net7.0\rpg-based-game.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\obj\Debug\net7.0\rpg-based-game.dll
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\obj\Debug\net7.0\refint\rpg-based-game.dll
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\obj\Debug\net7.0\rpg-based-game.pdb
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\obj\Debug\net7.0\rpg-based-game.genruntimeconfig.cache
+C:\iliyan\proggraming\project\mini game1.2\rpg-based-game\obj\Debug\net7.0\ref\rpg-based-game.dll

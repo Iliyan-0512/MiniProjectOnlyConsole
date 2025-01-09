@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|c:\\iliyan\\proggraming\\project\\tic-toc\\tictoe\\tictoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|solutionrelative:tictoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|c:\\iliyan\\proggraming\\project\\tic-toc\\tictoe\\tictoe\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|solutionrelative:tictoe\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|c:\\iliyan\\proggraming\\project\\tic-toc\\tictoe\\tictoe\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|solutionrelative:tictoe\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|c:\\iliyan\\proggraming\\project\\tic-toc\\tictoe\\tictoe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|solutionrelative:tictoe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|c:\\iliyan\\proggraming\\project\\tic-toc\\tictoe\\tictoe\\controllers\\tictactoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|solutionrelative:tictoe\\controllers\\tictactoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|c:\\iliyan\\proggraming\\project\\tic-toc\\tictoe\\tictoe\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|solutionrelative:tictoe\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|c:\\iliyan\\proggraming\\project\\tic-toc\\tictoe\\tictoe\\gameservince.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|solutionrelative:tictoe\\gameservince.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|c:\\iliyan\\proggraming\\project\\tic-toc\\tictoe\\tictoe\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338690E3-63F7-42BD-B263-A450EE0A85B6}|TicToe\\TicToe.csproj|solutionrelative:tictoe\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TicToe\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TicToe\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T07:46:29.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\StartUp.cs",
+              "RelativeDocumentMoniker": "TicToe\\StartUp.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\StartUp.cs",
+              "RelativeToolTip": "TicToe\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:04:33.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TicToe\\WeatherForecast.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\WeatherForecast.cs",
+              "RelativeToolTip": "TicToe\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:01:47.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameServince.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\GameServince.cs",
+              "RelativeDocumentMoniker": "TicToe\\GameServince.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\GameServince.cs",
+              "RelativeToolTip": "TicToe\\GameServince.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:01:40.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\Game.cs",
+              "RelativeDocumentMoniker": "TicToe\\Game.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\Game.cs",
+              "RelativeToolTip": "TicToe\\Game.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:01:26.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\Program.cs",
+              "RelativeDocumentMoniker": "TicToe\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\Program.cs",
+              "RelativeToolTip": "TicToe\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:00:57.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicTacToeController.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\Controllers\\TicTacToeController.cs",
+              "RelativeDocumentMoniker": "TicToe\\Controllers\\TicTacToeController.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\Controllers\\TicTacToeController.cs",
+              "RelativeToolTip": "TicToe\\Controllers\\TicTacToeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:59:01.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\Class.cs",
+              "RelativeDocumentMoniker": "TicToe\\Class.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\Tic-Toc\\TicToe\\TicToe\\Class.cs",
+              "RelativeToolTip": "TicToe\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:57:40.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

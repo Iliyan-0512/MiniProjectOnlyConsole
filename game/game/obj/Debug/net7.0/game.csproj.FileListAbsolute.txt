@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\project\game\game\bin\Debug\net7.0\game.exe
+C:\iliyan\proggraming\project\game\game\bin\Debug\net7.0\game.deps.json
+C:\iliyan\proggraming\project\game\game\bin\Debug\net7.0\game.runtimeconfig.json
+C:\iliyan\proggraming\project\game\game\bin\Debug\net7.0\game.dll
+C:\iliyan\proggraming\project\game\game\bin\Debug\net7.0\game.pdb
+C:\iliyan\proggraming\project\game\game\obj\Debug\net7.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\project\game\game\obj\Debug\net7.0\game.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\project\game\game\obj\Debug\net7.0\game.AssemblyInfo.cs
+C:\iliyan\proggraming\project\game\game\obj\Debug\net7.0\game.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\project\game\game\obj\Debug\net7.0\game.dll
+C:\iliyan\proggraming\project\game\game\obj\Debug\net7.0\refint\game.dll
+C:\iliyan\proggraming\project\game\game\obj\Debug\net7.0\game.pdb
+C:\iliyan\proggraming\project\game\game\obj\Debug\net7.0\game.genruntimeconfig.cache
+C:\iliyan\proggraming\project\game\game\obj\Debug\net7.0\ref\game.dll

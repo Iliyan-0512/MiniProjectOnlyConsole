@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "mini game1.2/1.0.0": {
+        "runtime": {
+          "mini game1.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mini game1.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

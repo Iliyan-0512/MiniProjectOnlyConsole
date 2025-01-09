@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\project\1.5.1\1.5.1\bin\Debug\net7.0\1.5.1.exe
+C:\iliyan\proggraming\project\1.5.1\1.5.1\bin\Debug\net7.0\1.5.1.deps.json
+C:\iliyan\proggraming\project\1.5.1\1.5.1\bin\Debug\net7.0\1.5.1.runtimeconfig.json
+C:\iliyan\proggraming\project\1.5.1\1.5.1\bin\Debug\net7.0\1.5.1.dll
+C:\iliyan\proggraming\project\1.5.1\1.5.1\bin\Debug\net7.0\1.5.1.pdb
+C:\iliyan\proggraming\project\1.5.1\1.5.1\obj\Debug\net7.0\1.5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\project\1.5.1\1.5.1\obj\Debug\net7.0\1.5.1.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\project\1.5.1\1.5.1\obj\Debug\net7.0\1.5.1.AssemblyInfo.cs
+C:\iliyan\proggraming\project\1.5.1\1.5.1\obj\Debug\net7.0\1.5.1.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\project\1.5.1\1.5.1\obj\Debug\net7.0\1.5.1.dll
+C:\iliyan\proggraming\project\1.5.1\1.5.1\obj\Debug\net7.0\refint\1.5.1.dll
+C:\iliyan\proggraming\project\1.5.1\1.5.1\obj\Debug\net7.0\1.5.1.pdb
+C:\iliyan\proggraming\project\1.5.1\1.5.1\obj\Debug\net7.0\1.5.1.genruntimeconfig.cache
+C:\iliyan\proggraming\project\1.5.1\1.5.1\obj\Debug\net7.0\ref\1.5.1.dll

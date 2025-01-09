@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C# Tutorial Text-Based Adventure/1.0.0": {
+        "runtime": {
+          "C# Tutorial Text-Based Adventure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# Tutorial Text-Based Adventure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

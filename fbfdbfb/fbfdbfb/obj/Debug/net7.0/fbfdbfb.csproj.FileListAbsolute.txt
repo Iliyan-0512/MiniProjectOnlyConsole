@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\bin\Debug\net7.0\fbfdbfb.exe
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\bin\Debug\net7.0\fbfdbfb.deps.json
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\bin\Debug\net7.0\fbfdbfb.runtimeconfig.json
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\bin\Debug\net7.0\fbfdbfb.dll
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\bin\Debug\net7.0\fbfdbfb.pdb
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\obj\Debug\net7.0\fbfdbfb.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\obj\Debug\net7.0\fbfdbfb.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\obj\Debug\net7.0\fbfdbfb.AssemblyInfo.cs
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\obj\Debug\net7.0\fbfdbfb.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\obj\Debug\net7.0\fbfdbfb.dll
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\obj\Debug\net7.0\refint\fbfdbfb.dll
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\obj\Debug\net7.0\fbfdbfb.pdb
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\obj\Debug\net7.0\fbfdbfb.genruntimeconfig.cache
+C:\iliyan\proggraming\project\fbfdbfb\fbfdbfb\obj\Debug\net7.0\ref\fbfdbfb.dll

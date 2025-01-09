@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\bin\Debug\net6.0\TicToeApp.exe
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\bin\Debug\net6.0\TicToeApp.deps.json
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\bin\Debug\net6.0\TicToeApp.runtimeconfig.json
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\bin\Debug\net6.0\TicToeApp.dll
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\bin\Debug\net6.0\TicToeApp.pdb
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\obj\Debug\net6.0\TicToeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\obj\Debug\net6.0\TicToeApp.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\obj\Debug\net6.0\TicToeApp.AssemblyInfo.cs
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\obj\Debug\net6.0\TicToeApp.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\obj\Debug\net6.0\TicToeApp.dll
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\obj\Debug\net6.0\refint\TicToeApp.dll
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\obj\Debug\net6.0\TicToeApp.pdb
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\obj\Debug\net6.0\TicToeApp.genruntimeconfig.cache
+C:\iliyan\proggraming\project\Tic-Toc\TicToeApp\TicToeApp\obj\Debug\net6.0\ref\TicToeApp.dll
