@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\bin\Debug\net8.0\Hangman.exe
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\bin\Debug\net8.0\Hangman.deps.json
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\bin\Debug\net8.0\Hangman.runtimeconfig.json
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\bin\Debug\net8.0\Hangman.dll
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\bin\Debug\net8.0\Hangman.pdb
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\obj\Debug\net8.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\obj\Debug\net8.0\Hangman.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\obj\Debug\net8.0\Hangman.AssemblyInfo.cs
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\obj\Debug\net8.0\Hangman.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\obj\Debug\net8.0\Hangman.dll
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\obj\Debug\net8.0\refint\Hangman.dll
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\obj\Debug\net8.0\Hangman.pdb
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\obj\Debug\net8.0\Hangman.genruntimeconfig.cache
+C:\iliyan\proggraming\project\Hangman\Hangman\Hangman\obj\Debug\net8.0\ref\Hangman.dll

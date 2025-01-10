@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C8FDD26-E3D0-48D6-B004-025AE5E808E7}|Hangman\\Hangman.csproj|c:\\iliyan\\proggraming\\project\\hangman\\hangman\\hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C8FDD26-E3D0-48D6-B004-025AE5E808E7}|Hangman\\Hangman.csproj|solutionrelative:hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8FDD26-E3D0-48D6-B004-025AE5E808E7}|Hangman\\Hangman.csproj|c:\\iliyan\\proggraming\\project\\hangman\\hangman\\hangman\\hangmangame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8FDD26-E3D0-48D6-B004-025AE5E808E7}|Hangman\\Hangman.csproj|solutionrelative:hangman\\hangmangame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8FDD26-E3D0-48D6-B004-025AE5E808E7}|Hangman\\Hangman.csproj|c:\\iliyan\\proggraming\\project\\hangman\\hangman\\hangman\\hangmanui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8FDD26-E3D0-48D6-B004-025AE5E808E7}|Hangman\\Hangman.csproj|solutionrelative:hangman\\hangmanui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8FDD26-E3D0-48D6-B004-025AE5E808E7}|Hangman\\Hangman.csproj|c:\\iliyan\\proggraming\\project\\hangman\\hangman\\hangman\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8FDD26-E3D0-48D6-B004-025AE5E808E7}|Hangman\\Hangman.csproj|solutionrelative:hangman\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HangmanUI.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\Hangman\\Hangman\\Hangman\\HangmanUI.cs",
+              "RelativeDocumentMoniker": "Hangman\\HangmanUI.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\Hangman\\Hangman\\Hangman\\HangmanUI.cs",
+              "RelativeToolTip": "Hangman\\HangmanUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:41:20.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\Hangman\\Hangman\\Hangman\\Player.cs",
+              "RelativeDocumentMoniker": "Hangman\\Player.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\Hangman\\Hangman\\Hangman\\Player.cs",
+              "RelativeToolTip": "Hangman\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:30:50.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangmanGame.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\Hangman\\Hangman\\Hangman\\HangmanGame.cs",
+              "RelativeDocumentMoniker": "Hangman\\HangmanGame.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\Hangman\\Hangman\\Hangman\\HangmanGame.cs",
+              "RelativeToolTip": "Hangman\\HangmanGame.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA4wC4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:08:31.872Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "Hangman\\Program.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\project\\Hangman\\Hangman\\Hangman\\Program.cs",
               "RelativeToolTip": "Hangman\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T20:56:26.58Z",
               "EditorCaption": ""
