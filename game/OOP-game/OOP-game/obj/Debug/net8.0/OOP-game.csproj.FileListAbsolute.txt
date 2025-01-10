@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\bin\Debug\net8.0\OOP-game.exe
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\bin\Debug\net8.0\OOP-game.deps.json
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\bin\Debug\net8.0\OOP-game.runtimeconfig.json
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\bin\Debug\net8.0\OOP-game.dll
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\bin\Debug\net8.0\OOP-game.pdb
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\obj\Debug\net8.0\OOP-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\obj\Debug\net8.0\OOP-game.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\obj\Debug\net8.0\OOP-game.AssemblyInfo.cs
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\obj\Debug\net8.0\OOP-game.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\obj\Debug\net8.0\OOP-game.dll
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\obj\Debug\net8.0\refint\OOP-game.dll
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\obj\Debug\net8.0\OOP-game.pdb
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\obj\Debug\net8.0\OOP-game.genruntimeconfig.cache
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\obj\Debug\net8.0\ref\OOP-game.dll
+C:\iliyan\proggraming\project\game\OOP-game\OOP-game\obj\Debug\net8.0\OOP-game.sourcelink.json

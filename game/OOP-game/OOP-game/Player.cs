@@ -8,10 +8,10 @@ namespace Connect
 {
     public class Player
     {
-        public int Health { get; private set; } = 100;
-        public int Attack { get; private set; } = 5;
-        public int Level { get; private set; } = 1;
-        public int Money { get; private set; } = 0;
+        public int Health { get; set; } = 100;
+        public int Attack { get; set; } = 7;
+        public int Level { get; set; } = 1;
+        public int Money { get; set; } = 0;
 
         public Player()
         {

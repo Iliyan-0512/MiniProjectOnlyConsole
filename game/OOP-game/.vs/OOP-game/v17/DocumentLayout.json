@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{363BE93F-D6A4-470E-B459-2696C73B9CD8}|OOP-game\\OOP-game.csproj|c:\\iliyan\\proggraming\\project\\game\\oop-game\\oop-game\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363BE93F-D6A4-470E-B459-2696C73B9CD8}|OOP-game\\OOP-game.csproj|solutionrelative:oop-game\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{363BE93F-D6A4-470E-B459-2696C73B9CD8}|OOP-game\\OOP-game.csproj|c:\\iliyan\\proggraming\\project\\game\\oop-game\\oop-game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{363BE93F-D6A4-470E-B459-2696C73B9CD8}|OOP-game\\OOP-game.csproj|solutionrelative:oop-game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363BE93F-D6A4-470E-B459-2696C73B9CD8}|OOP-game\\OOP-game.csproj|c:\\iliyan\\proggraming\\project\\game\\oop-game\\oop-game\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363BE93F-D6A4-470E-B459-2696C73B9CD8}|OOP-game\\OOP-game.csproj|solutionrelative:oop-game\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363BE93F-D6A4-470E-B459-2696C73B9CD8}|OOP-game\\OOP-game.csproj|c:\\iliyan\\proggraming\\project\\game\\oop-game\\oop-game\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363BE93F-D6A4-470E-B459-2696C73B9CD8}|OOP-game\\OOP-game.csproj|solutionrelative:oop-game\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{363BE93F-D6A4-470E-B459-2696C73B9CD8}|OOP-game\\OOP-game.csproj|c:\\iliyan\\proggraming\\project\\game\\oop-game\\oop-game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,46 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\OOP-game\\Item.cs",
+              "RelativeDocumentMoniker": "OOP-game\\Item.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\OOP-game\\Item.cs",
+              "RelativeToolTip": "OOP-game\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:41:51.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\OOP-game\\Inventory.cs",
+              "RelativeDocumentMoniker": "OOP-game\\Inventory.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\OOP-game\\Inventory.cs",
+              "RelativeToolTip": "OOP-game\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:41:25.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\OOP-game\\Enemy.cs",
               "RelativeDocumentMoniker": "OOP-game\\Enemy.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\OOP-game\\Enemy.cs",
               "RelativeToolTip": "OOP-game\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAIA3wBEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T20:00:22.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T20:00:22.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\OOP-game\\Player.cs",
               "RelativeDocumentMoniker": "OOP-game\\Player.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\OOP-game\\Player.cs",
               "RelativeToolTip": "OOP-game\\Player.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T19:52:31.238Z",
+              "WhenOpened": "2024-07-26T19:52:31.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FIeld.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\OOP-game\\FIeld.cs",
+              "RelativeDocumentMoniker": "OOP-game\\FIeld.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\OOP-game\\FIeld.cs",
+              "RelativeToolTip": "OOP-game\\FIeld.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:08:09.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\OOP-game\\StartUp.cs",
               "RelativeDocumentMoniker": "OOP-game\\StartUp.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\project\\game\\OOP-game\\OOP-game\\StartUp.cs",
               "RelativeToolTip": "OOP-game\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T20:28:14.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T20:28:14.438Z"
             }
           ]
         }

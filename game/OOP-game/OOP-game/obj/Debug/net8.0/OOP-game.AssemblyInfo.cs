@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP-game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a17be11aae9cd61033dd2f79da751223ce3719fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP-game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP-game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

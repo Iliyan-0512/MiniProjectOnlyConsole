@@ -8,9 +8,10 @@ namespace Connect
 {
     public class Enemy
     {
-        int Damaged = 100;
-        int Attack = 5;
-        int Level = 1;
+        public int Health { get;  set; } = 70;
+        public virtual int  Attack { get;  set; } = 5;
+        public int Level { get;  set; } = 1;
+       
         public Enemy()
         {
 
